@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfcdcfa7-50b1-4b84-aa7e-9f8ece3d03cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WgGA9csMP3Dj0mF14Cmvah1RL2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.WeekNames">
+    <configuration name="InterchangedValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterchangedValue" />
+      <module name="ConditionalStatementHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Percentage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Percentage" />
+      <module name="ConditionalStatementHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveNegativeNumber" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PositiveNegativeNumber" />
+      <module name="ConditionalStatementHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VowelorConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VowelorConsonant" />
+      <module name="ConditionalStatementHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeekNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeekNames" />
+      <module name="ConditionalStatementHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeekdayNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeekdayNames" />
+      <module name="ConditionalStatementHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WeekNames" />
+        <item itemvalue="Application.Percentage" />
+        <item itemvalue="Application.InterchangedValue" />
+        <item itemvalue="Application.VowelorConsonant" />
+        <item itemvalue="Application.WeekdayNames" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfcdcfa7-50b1-4b84-aa7e-9f8ece3d03cd" name="Default Changelist" comment="" />
+      <created>1579563677684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579563677684</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579689415425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1579689415425" />
+    <state x="482" y="248" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579695512494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="482" y="248" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1579695512494" />
+    <state width="1481" height="191" key="GridCell.Tab.0.bottom" timestamp="1579723732541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579723732541" />
+    <state width="1481" height="191" key="GridCell.Tab.0.center" timestamp="1579723732541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="191" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579723732541" />
+    <state width="1481" height="191" key="GridCell.Tab.0.left" timestamp="1579723732541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="191" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579723732541" />
+    <state width="1481" height="191" key="GridCell.Tab.0.right" timestamp="1579723732541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="191" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579723732541" />
+    <state width="1481" height="248" key="GridCell.Tab.1.bottom" timestamp="1579699227145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="248" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579699227145" />
+    <state width="1481" height="248" key="GridCell.Tab.1.center" timestamp="1579699227145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="248" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1579699227145" />
+    <state width="1481" height="248" key="GridCell.Tab.1.left" timestamp="1579699227145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="248" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1579699227145" />
+    <state width="1481" height="248" key="GridCell.Tab.1.right" timestamp="1579699227145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="248" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1579699227145" />
+    <state x="558" y="669" key="ReplaceDuplicatesPrompt" timestamp="1579686939801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="558" y="669" key="ReplaceDuplicatesPrompt/0.0.1536.824@0.0.1536.824" timestamp="1579686939801" />
+    <state x="0" y="206" width="663" height="618" key="extract.method.dialog" timestamp="1579686936739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="206" width="663" height="618" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1579686936739" />
+    <state x="302" y="343" key="run.anything.popup" timestamp="1579612088050">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="302" y="343" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1579612088050" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LeapYear.java</url>
+          <line>3</line>
+          <properties class="LeapYear" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Value.java</url>
+          <line>3</line>
+          <properties class="Value" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Studentmarksheet.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AverageNumber.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CountryName.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EligibleVote.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UppercaseLowercase.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Value.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
